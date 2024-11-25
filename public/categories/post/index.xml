@@ -6,35 +6,14 @@
     <description>Recent content in Post on Rayyan</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rayyanmm.github.io/hugolitefish/categories/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>https://rayyanmm.github.io/hugolitefish/posts/post-lite-one/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://rayyanmm.github.io/hugolitefish/posts/post-lite-one/</guid>
+      <title>All About Hybrid Cars</title>
+      <link>https://rayyanmm.github.io/hugolitefish/posts/hybrid/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://rayyanmm.github.io/hugolitefish/posts/hybrid/</guid>
       <description>Cars</description>
-    </item>
-    <item>
-      <title>Super cool article that I wrote</title>
-      <link>https://rayyanmm.github.io/hugolitefish/posts/post-lite-three/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://rayyanmm.github.io/hugolitefish/posts/post-lite-three/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-    </item>
-    <item>
-      <title>Super cool article that I wrote</title>
-      <link>https://rayyanmm.github.io/hugolitefish/posts/post-lite-two/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://rayyanmm.github.io/hugolitefish/posts/post-lite-two/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-    </item>
-    <item>
-      <title>Super cool article that I wrote</title>
-      <link>https://rayyanmm.github.io/hugolitefish/posts/post-lite-four/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://rayyanmm.github.io/hugolitefish/posts/post-lite-four/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
     </item>
   </channel>
 </rss>

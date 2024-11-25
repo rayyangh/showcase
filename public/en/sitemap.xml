@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rayyanmm.github.io/hugolitefish/posts/hybrid/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/categories/blog/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +23,7 @@
                 />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/categories/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,7 +38,7 @@
                 />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/tags/ipsum/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -48,7 +53,7 @@
                 />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/tags/lorem/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -63,7 +68,7 @@
                 />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/tags/post/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -78,7 +83,7 @@
                 />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/categories/post/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -93,7 +98,7 @@
                 />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/posts/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -108,7 +113,7 @@
                 />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -122,53 +127,8 @@
                 href="https://rayyanmm.github.io/hugolitefish/"
                 />
   </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/posts/post-lite-one/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/posts/post-lite-one/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rayyanmm.github.io/hugolitefish/posts/post-lite-one/"
-                />
-  </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/posts/post-lite-three/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/posts/post-lite-three/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rayyanmm.github.io/hugolitefish/posts/post-lite-three/"
-                />
-  </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/posts/post-lite-two/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/posts/post-lite-two/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rayyanmm.github.io/hugolitefish/posts/post-lite-two/"
-                />
-  </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/tags/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -180,21 +140,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rayyanmm.github.io/hugolitefish/tags/"
-                />
-  </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/posts/post-lite-four/</loc>
-    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/posts/post-lite-four/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rayyanmm.github.io/hugolitefish/posts/post-lite-four/"
                 />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/authors/</loc>
