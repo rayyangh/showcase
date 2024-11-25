@@ -2,7 +2,7 @@ languageCode = "ar"
 languageName = "Arabic"
 weight = 2
 title = "Gray Blowfish"
-contentDir = 'content/pt'
+contentDir = 'content/en'
 
 
 [params]
