@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rayyanmm.github.io/hugolitefish/sitemap.xml
