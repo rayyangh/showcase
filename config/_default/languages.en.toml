@@ -10,4 +10,4 @@ isoCode = "en"
 rtl = false
 description = "My awesome website"
 dateFormat = "2 January 2006"
-author = { name = "Gray Blowfish", image = "img/avatar.png", headline = "This is my very simple profile website with my links", bio = "A little bit about you", links = [ { link = "https://nunocoracao.github.io/blowfish/" }, { github = "https://github.com/nunocoracao/blowfish" }, { x-twitter = "https://twitter.com/burufugu" } ] }
+author = { name = "Rayyan", image = "img/avatar.png", headline = "This is my very simple profile website with my links", bio = "A little bit about you", links = [ { link = "https://nunocoracao.github.io/blowfish/" }, { github = "https://github.com/nunocoracao/blowfish" }, { x-twitter = "https://twitter.com/burufugu" } ] }
