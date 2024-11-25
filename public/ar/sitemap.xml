@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugolitefish/categories/blog/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/categories/blog/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/categories/blog/"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/categories/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -18,18 +18,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/categories/blog/"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/categories/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugolitefish/categories/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/categories/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/categories/"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,118 +38,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/categories/"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugolitefish/tags/ipsum/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/hugolitefish/pt-pt/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugolitefish/tags/ipsum/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hugolitefish/tags/lorem/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/tags/lorem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/hugolitefish/pt-pt/tags/lorem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/tags/lorem/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hugolitefish/tags/post/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/tags/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/hugolitefish/pt-pt/tags/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/tags/post/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hugolitefish/categories/post/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/categories/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/hugolitefish/pt-pt/categories/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/categories/post/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hugolitefish/posts/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/hugolitefish/pt-pt/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hugolitefish/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/"
+                href="http://localhost:1313/hugolitefish/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -158,14 +58,119 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugolitefish/posts/post-lite-one/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/tags/ipsum/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/tags/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/hugolitefish/pt-pt/tags/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/tags/ipsum/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugolitefish/ar/tags/lorem/</loc>
+    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/tags/lorem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/hugolitefish/pt-pt/tags/lorem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/tags/lorem/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugolitefish/ar/tags/post/</loc>
+    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/tags/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/hugolitefish/pt-pt/tags/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/tags/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugolitefish/ar/categories/post/</loc>
+    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/categories/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/hugolitefish/pt-pt/categories/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/categories/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugolitefish/ar/posts/</loc>
+    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/hugolitefish/pt-pt/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugolitefish/ar/posts/post-lite-one/</loc>
+    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/posts/post-lite-one/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -176,16 +181,16 @@
                 hreflang="ar"
                 href="http://localhost:1313/hugolitefish/ar/posts/post-lite-one/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/posts/post-lite-one/"
-                />
   </url><url>
-    <loc>http://localhost:1313/hugolitefish/posts/post-lite-three/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/posts/post-lite-three/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/posts/post-lite-three/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -196,16 +201,16 @@
                 hreflang="ar"
                 href="http://localhost:1313/hugolitefish/ar/posts/post-lite-three/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/posts/post-lite-three/"
-                />
   </url><url>
-    <loc>http://localhost:1313/hugolitefish/posts/post-lite-two/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/posts/post-lite-two/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/posts/post-lite-two/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -216,20 +221,15 @@
                 hreflang="ar"
                 href="http://localhost:1313/hugolitefish/ar/posts/post-lite-two/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/posts/post-lite-two/"
-                />
   </url><url>
-    <loc>http://localhost:1313/hugolitefish/tags/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/tags/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/tags/"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -238,14 +238,19 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/tags/"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugolitefish/posts/post-lite-four/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/posts/post-lite-four/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/posts/post-lite-four/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -256,19 +261,14 @@
                 hreflang="ar"
                 href="http://localhost:1313/hugolitefish/ar/posts/post-lite-four/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/posts/post-lite-four/"
-                />
   </url><url>
-    <loc>http://localhost:1313/hugolitefish/authors/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/authors/"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -277,17 +277,17 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/authors/"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugolitefish/series/</loc>
+    <loc>http://localhost:1313/hugolitefish/ar/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/hugolitefish/ar/series/"
+                hreflang="en"
+                href="http://localhost:1313/hugolitefish/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -296,8 +296,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugolitefish/series/"
+                hreflang="ar"
+                href="http://localhost:1313/hugolitefish/ar/series/"
                 />
   </url>
 </urlset>
