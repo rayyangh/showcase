@@ -1,5 +1,5 @@
 ---
-title: "Super cool article that I wrote"
+title: "All About Hybrid Cars"
 summary: "Cars"
 categories: ["Post", "Blog"]
 tags: ["post", "lorem", "ipsum"]
