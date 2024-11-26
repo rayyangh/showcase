@@ -16,10 +16,10 @@ contentDir = 'content/fr'
 dateFormat = "2 January 2006"
 
 [params.author]
-  name = "Gray Blowfish"
+  name = "Rayyan Manzary"
   image = "img/avatar.png"
-  headline = "Um perfil simples com os meus links"
-  bio = "A little bit about you"
+  headline = "mon site simple et étonnant"
+  bio = "étudiant"
    links = [
      { link = "https://nunocoracao.github.io/blowfish/" },
      { github = "https://github.com/nunocoracao/blowfish" },

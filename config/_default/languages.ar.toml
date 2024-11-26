@@ -20,8 +20,8 @@ dateFormat = "2 January 2006"
   image = "img/avatar.png"
   headline = "A headline"
   bio = "Lifelong learner"
-#   links = [
-#     { link = "https://nunocoracao.github.io/blowfish/" },
-#     { github = "https://github.com/nunocoracao/blowfish" },
-#     { x-twitter = "https://twitter.com/burufugu" }
-#   ]
+   links = [
+     { link = "https://nunocoracao.github.io/blowfish/" },
+     { github = "https://github.com/nunocoracao/blowfish" },
+     { x-twitter = "https://twitter.com/burufugu" }
+   ]
