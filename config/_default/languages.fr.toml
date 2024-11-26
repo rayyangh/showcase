@@ -22,5 +22,5 @@ dateFormat = "2 January 2006"
   bio = "étudiant"
    links = [
      { github = "https://github.com/nunocoracao/blowfish" },
-     { mail = "mailto:rayyanbc@gmail.com" }
+     { email = "mailto:rayyanbc@gmail.com" }
    ]
