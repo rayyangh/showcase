@@ -11,11 +11,31 @@
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/posts/hybrid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rayyanmm.github.io/hugolitefish/posts/hybrid/"
+                />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/categories/blog/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/categories/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rayyanmm.github.io/hugolitefish/categories/blog/"
+                />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/categories/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
@@ -23,13 +43,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://rayyanmm.github.io/hugolitefish/ar/categories/"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://rayyanmm.github.io/hugolitefish/fr/categories/"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,30 +67,85 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://rayyanmm.github.io/hugolitefish/fr/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/tags/ipsum/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/tags/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rayyanmm.github.io/hugolitefish/tags/ipsum/"
+                />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/tags/lorem/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/tags/lorem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rayyanmm.github.io/hugolitefish/tags/lorem/"
+                />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/tags/post/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/tags/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rayyanmm.github.io/hugolitefish/tags/post/"
+                />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/categories/post/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/categories/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rayyanmm.github.io/hugolitefish/categories/post/"
+                />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/posts/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rayyanmm.github.io/hugolitefish/posts/"
+                />
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
@@ -78,13 +153,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://rayyanmm.github.io/hugolitefish/ar/"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://rayyanmm.github.io/hugolitefish/fr/"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -103,13 +178,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://rayyanmm.github.io/hugolitefish/ar/tags/"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://rayyanmm.github.io/hugolitefish/fr/tags/"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -121,6 +196,11 @@
                 hreflang="en"
                 href="https://rayyanmm.github.io/hugolitefish/tags/"
                 />
+  </url><url>
+    <loc>https://rayyanmm.github.io/hugolitefish/fr/posts/hybrid/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/authors/</loc>
     <changefreq>daily</changefreq>
