@@ -17,11 +17,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="https://rayyanmm.github.io/hugolitefish/ar/authors/"
                 />
@@ -38,11 +33,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://rayyanmm.github.io/hugolitefish/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -65,11 +55,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="https://rayyanmm.github.io/hugolitefish/ar/"
                 />
@@ -89,11 +74,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/series/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="https://rayyanmm.github.io/hugolitefish/ar/series/"
                 />
@@ -110,11 +90,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://rayyanmm.github.io/hugolitefish/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"

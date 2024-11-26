@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rayyanmm.github.io/hugolitefish/en/posts/hybrid/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/posts/hybrid/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -53,24 +48,9 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://rayyanmm.github.io/hugolitefish/categories/"
                 />
-  </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/en/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/fr/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/tags/ipsum/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
@@ -163,11 +143,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://rayyanmm.github.io/hugolitefish/"
                 />
@@ -188,19 +163,9 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://rayyanmm.github.io/hugolitefish/tags/"
                 />
-  </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/fr/posts/hybrid/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/authors/</loc>
     <changefreq>daily</changefreq>
@@ -214,11 +179,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://rayyanmm.github.io/hugolitefish/fr/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -238,11 +198,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://rayyanmm.github.io/hugolitefish/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-pt"
-                href="https://rayyanmm.github.io/hugolitefish/pt-pt/series/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -27,12 +27,6 @@
   url = "https://github.com/nunocoracao/blowfish"
   weight = 50
 
-[[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 60
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
