@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rayyanmm.github.io/hugolitefish/ar/authors/</loc>
+    <loc>https://rayyanmm.github.io/hugolitefish/fr/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -12,8 +12,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://rayyanmm.github.io/hugolitefish/fr/authors/"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -22,11 +22,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://rayyanmm.github.io/hugolitefish/ar/authors/"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/authors/"
                 />
   </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/ar/categories/</loc>
+    <loc>https://rayyanmm.github.io/hugolitefish/fr/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -41,16 +41,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://rayyanmm.github.io/hugolitefish/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="https://rayyanmm.github.io/hugolitefish/ar/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/categories/"
+                />
   </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/ar/</loc>
+    <loc>https://rayyanmm.github.io/hugolitefish/fr/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -65,16 +65,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://rayyanmm.github.io/hugolitefish/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ar"
                 href="https://rayyanmm.github.io/hugolitefish/ar/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/"
+                />
   </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/ar/series/</loc>
+    <loc>https://rayyanmm.github.io/hugolitefish/fr/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -84,8 +84,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://rayyanmm.github.io/hugolitefish/fr/series/"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -94,11 +94,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://rayyanmm.github.io/hugolitefish/ar/series/"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/series/"
                 />
   </url><url>
-    <loc>https://rayyanmm.github.io/hugolitefish/ar/tags/</loc>
+    <loc>https://rayyanmm.github.io/hugolitefish/fr/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -113,13 +113,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://rayyanmm.github.io/hugolitefish/fr/tags/"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://rayyanmm.github.io/hugolitefish/ar/tags/"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/tags/"
                 />
   </url>
 </urlset>

@@ -33,6 +33,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://rayyanmm.github.io/hugolitefish/categories/"
                 />
@@ -123,6 +133,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://rayyanmm.github.io/hugolitefish/"
                 />
@@ -138,6 +158,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://rayyanmm.github.io/hugolitefish/tags/"
                 />
@@ -145,6 +175,16 @@
     <loc>https://rayyanmm.github.io/hugolitefish/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/authors/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
@@ -159,6 +199,16 @@
     <loc>https://rayyanmm.github.io/hugolitefish/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://rayyanmm.github.io/hugolitefish/ar/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rayyanmm.github.io/hugolitefish/fr/series/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"

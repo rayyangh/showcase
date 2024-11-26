@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Gray Blowfish</title>
-    <link>http://localhost:1313/hugolitefish/ar/series/</link>
+    <link>https://rayyanmm.github.io/hugolitefish/ar/series/</link>
     <description>Recent content in Series on Gray Blowfish</description>
     <generator>Hugo</generator>
     <language>ar</language>
-    <atom:link href="http://localhost:1313/hugolitefish/ar/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rayyanmm.github.io/hugolitefish/ar/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
