@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Gray Blowfish</title>
+    <title>Series on </title>
     <link>https://rayyanmm.github.io/hugolitefish/pt-pt/series/</link>
-    <description>Recent content in Series on Gray Blowfish</description>
+    <description>Recent content in Series on </description>
     <generator>Hugo</generator>
-    <language>pt-PT</language>
+    <language>pt-pt</language>
     <atom:link href="https://rayyanmm.github.io/hugolitefish/pt-pt/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
