@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ens on Rayyan</title><link>https://rayyanmm.github.io/hugolitefish/en/</link><description>Recent content in Ens on Rayyan</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Rayyan</copyright><lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rayyanmm.github.io/hugolitefish/en/index.xml" rel="self" type="application/rss+xml"/><item><title>All About Hybrid Cars</title><link>https://rayyanmm.github.io/hugolitefish/en/posts/hybrid/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><guid>https://rayyanmm.github.io/hugolitefish/en/posts/hybrid/</guid><description>Cars</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens on Rayyan</title>
+    <link>https://rayyanmm.github.io/hugolitefish/en/</link>
+    <description>Recent content in Ens on Rayyan</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rayyanmm.github.io/hugolitefish/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All About Hybrid Cars</title>
+      <link>https://rayyanmm.github.io/hugolitefish/en/posts/hybrid/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://rayyanmm.github.io/hugolitefish/en/posts/hybrid/</guid>
+      <description>Cars</description>
+    </item>
+  </channel>
+</rss>
