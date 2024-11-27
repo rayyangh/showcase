@@ -6,7 +6,7 @@ contentDir = 'content/ar'
 
 
 [params]
-  displayName = "AR"
+  displayName = "عر"
   isoCode = "ar"
   rtl = true
   # logo = "img/logo.png"
