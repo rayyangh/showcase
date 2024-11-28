@@ -10,4 +10,9 @@ isoCode = "en"
 rtl = false
 description = "My awesome website"
 dateFormat = "2 January 2006"
-author = { name = "Rayyan", image = "img/avatar.png", headline = "My awesome website", bio = "Lifelong Learner", links = [ { github = "https://github.com/rayyanmm" }, { email = "mailto:rayyanbc@gmail.com" }  ] }
+author = { name = "Rayyan",
+ image = "img/avatar.png", 
+headline = "My awesome website", 
+bio = "Lifelong Learner", 
+links = [ { github = "https://github.com/rayyanmm" },
+ { email = "mailto:rayyanbc@gmail.com" }  ] }
