@@ -15,4 +15,4 @@ author = { name = "Rayyan",
 headline = "My awesome website", 
 bio = "Lifelong Learner", 
 links = [ { github = "https://github.com/rayyanmm" },
- { email = "mailto:rayyanbc@gmail.com" }  ] }
+ { envelope = "mailto:rayyanbc@gmail.com" }  ] }
