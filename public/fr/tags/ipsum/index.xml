@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ipsum on Rayyan</title><link>/hugolitefish/fr/tags/ipsum/</link><description>Recent content in Ipsum on Rayyan</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/hugolitefish/fr/tags/ipsum/index.xml" rel="self" type="application/rss+xml"/><item><title>Tout sur les voitures hybrides</title><link>/hugolitefish/fr/posts/hybrid/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><guid>/hugolitefish/fr/posts/hybrid/</guid><description>Cars</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipsum on Rayyan</title>
+    <link>/fr/tags/ipsum/</link>
+    <description>Recent content in Ipsum on Rayyan</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/fr/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tout sur les voitures hybrides</title>
+      <link>/fr/posts/hybrid/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/fr/posts/hybrid/</guid>
+      <description>Cars</description>
+    </item>
+  </channel>
+</rss>

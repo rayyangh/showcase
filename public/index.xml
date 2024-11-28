@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rayyan</title><link>/hugolitefish/</link><description>Recent content on Rayyan</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/hugolitefish/index.xml" rel="self" type="application/rss+xml"/><item><title>All About Hybrid Cars</title><link>/hugolitefish/posts/hybrid/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><guid>/hugolitefish/posts/hybrid/</guid><description>Cars</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rayyan</title>
+    <link>/</link>
+    <description>Recent content on Rayyan</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All About Hybrid Cars</title>
+      <link>/posts/hybrid/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/hybrid/</guid>
+      <description>Cars</description>
+    </item>
+  </channel>
+</rss>
