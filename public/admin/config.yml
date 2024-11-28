@@ -1,0 +1,43 @@
+backend:
+  name: github
+  repo: rayyanmm/hugofishlite
+  branch: main # Branch to update (optional; defaults to master)
+  base_url: https://hugolitefish.pages.dev/
+  auth_endpoint: /api/auth
+media_folder: static/img
+# in case the public route is different, otherwise automatic
+public_folder: /img
+collections:
+  ########################
+  # POSTS COLLECTION
+  ########################
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    path: "{{year}}-{{month}}-{{day}}-{{title}}/index"
+    media_folder: ""
+    public_folder: ""
+    create: true
+    slug: "index"
+    # Nested can be used for deeper than 2 layers of folders
+    # nested:
+    #   depth: 100 # max depth to show in the collection tree
+    # summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    editor:
+      preview: false
+    fields:
+      # - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      # - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Authors",
+          name: "authors",
+          widget: "select",
+          multiple: true,
+          options: ["bob", "jane", "peter", "kate"],
+        }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Cover Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
