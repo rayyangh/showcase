@@ -7,7 +7,7 @@ contentDir = 'content/ar'
 
 [params]
   displayName = "عر"
-  isoCode = "ar"
+  isoCode = "عر"
   rtl = true
   # logo = "img/logo.png"
   description = "Arabic website"
