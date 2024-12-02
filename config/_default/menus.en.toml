@@ -21,11 +21,11 @@
 #  url = "https://rayyanmm.github.io/hugolitefish/"
 #  weight = 40
 
-#[[main]]
-#  identifier = "github"
-#  pre = "github"
-#  url = "https://github.com/rayyanmm/"
-#  weight = 50
+[[main]]
+  identifier = "envelope"
+  pre = "email"
+  url = "mailto:rayyanbc@gmail.com"
+  weight = 50
 
 
 # -- Footer Menu --
