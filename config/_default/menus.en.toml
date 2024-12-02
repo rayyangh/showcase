@@ -23,10 +23,14 @@
 
 [[main]]
   identifier = "envelope"
-  pre = "email"
+  pre = "envelope"
   url = "mailto:rayyanbc@gmail.com"
   weight = 50
 
+[[main]]
+  name = "About"
+  pageref = "about"
+  weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
