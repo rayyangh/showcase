@@ -87,6 +87,11 @@
                 href="https://rayyanmm.github.io/hugolitefish/tags/"
                 />
   </url><url>
+    <loc>https://rayyanmm.github.io/hugolitefish/about/</loc>
+    <lastmod>2022-10-16T19:30:21+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://rayyanmm.github.io/hugolitefish/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
