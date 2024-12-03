@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = {{< icon "home" >}} "Rayyan"
+title = {{< icon "house" >}} "Rayyan"
 contentDir = "content/en"
 
 [params]
