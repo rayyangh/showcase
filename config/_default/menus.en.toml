@@ -15,12 +15,6 @@
   pageRef = "posts"
   weight = 10
 
-#[[main]]
-#  identifier = "web"
-#  pre = "link"
-#  url = "https://rayyanmm.github.io/hugolitefish/"
-#  weight = 40
-
 [[main]]
   identifier = "envelope"
   pre = "envelope"
