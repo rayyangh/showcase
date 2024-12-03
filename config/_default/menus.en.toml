@@ -23,7 +23,7 @@
 
 [[main]]
   name = "About"
-  pageref = "/about"
+  pageref = "about"
   weight = 20
 
 # -- Footer Menu --
