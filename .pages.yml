@@ -4,7 +4,7 @@ content:
     type: collection
     path: content/en/posts
     view: 
-      fields: [title, date]
+      fields: [title]
     fields:
       - { name: title, label: Title, type: string }
       - { name: draft, type: string, hidden: true, default: false }
