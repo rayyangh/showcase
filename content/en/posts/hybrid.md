@@ -1,8 +1,7 @@
 ---
 title: "All About Hybrid Cars"
-summary: "Cars"
-categories: ["Post", "Blog"]
-tags: ["post", "lorem", "ipsum"]
+categories: ["facts"]
+tags: ["Fun facts"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-10-13
