@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rayyan</title>
-    <link>https://rayyangh.github.io/hugolitefish/fr/tags/</link>
+    <link>https://rayyangh.github.io/showcase/fr/tags/</link>
     <description>Recent content in Tags on Rayyan</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rayyangh.github.io/hugolitefish/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rayyangh.github.io/showcase/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ipsum</title>
-      <link>https://rayyangh.github.io/hugolitefish/fr/tags/ipsum/</link>
+      <link>https://rayyangh.github.io/showcase/fr/tags/ipsum/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://rayyangh.github.io/hugolitefish/fr/tags/ipsum/</guid>
+      <guid>https://rayyangh.github.io/showcase/fr/tags/ipsum/</guid>
       <description></description>
     </item>
     <item>
       <title>Lorem</title>
-      <link>https://rayyangh.github.io/hugolitefish/fr/tags/lorem/</link>
+      <link>https://rayyangh.github.io/showcase/fr/tags/lorem/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://rayyangh.github.io/hugolitefish/fr/tags/lorem/</guid>
+      <guid>https://rayyangh.github.io/showcase/fr/tags/lorem/</guid>
       <description></description>
     </item>
     <item>
       <title>Post</title>
-      <link>https://rayyangh.github.io/hugolitefish/fr/tags/post/</link>
+      <link>https://rayyangh.github.io/showcase/fr/tags/post/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://rayyangh.github.io/hugolitefish/fr/tags/post/</guid>
+      <guid>https://rayyangh.github.io/showcase/fr/tags/post/</guid>
       <description></description>
     </item>
   </channel>

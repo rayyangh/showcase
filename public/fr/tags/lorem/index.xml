@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorem on Rayyan</title>
-    <link>https://rayyangh.github.io/hugolitefish/fr/tags/lorem/</link>
+    <link>https://rayyangh.github.io/showcase/fr/tags/lorem/</link>
     <description>Recent content in Lorem on Rayyan</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rayyangh.github.io/hugolitefish/fr/tags/lorem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rayyangh.github.io/showcase/fr/tags/lorem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tout sur les voitures hybrides</title>
-      <link>https://rayyangh.github.io/hugolitefish/fr/posts/hybrid/</link>
+      <link>https://rayyangh.github.io/showcase/fr/posts/hybrid/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://rayyangh.github.io/hugolitefish/fr/posts/hybrid/</guid>
+      <guid>https://rayyangh.github.io/showcase/fr/posts/hybrid/</guid>
       <description>Cars</description>
     </item>
   </channel>
