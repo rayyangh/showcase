@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rayyan</title>
-    <link>https://rayyanmm.github.io/hugolitefish/categories/</link>
+    <link>https://rayyangh.github.io/hugolitefish/categories/</link>
     <description>Recent content in Categories on Rayyan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rayyanmm.github.io/hugolitefish/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rayyangh.github.io/hugolitefish/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Facts</title>
-      <link>https://rayyanmm.github.io/hugolitefish/categories/facts/</link>
+      <link>https://rayyangh.github.io/hugolitefish/categories/facts/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://rayyanmm.github.io/hugolitefish/categories/facts/</guid>
+      <guid>https://rayyangh.github.io/hugolitefish/categories/facts/</guid>
       <description></description>
     </item>
   </channel>
