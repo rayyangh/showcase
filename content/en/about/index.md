@@ -11,3 +11,7 @@ toc: false
 ---
 
 ### hi
+
+{{< button href="javascript:location.href = 'mailto:' + ['rayyanbc','gmail.com'].join('@')" target="_self" >}}
+Email
+{{< /button >}}
