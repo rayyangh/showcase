@@ -7,8 +7,7 @@ showWordCount: false
 showAuthor: false
 sharingLinks: false
 draft: false
-layout: "about"
-toc: false
+showTableOfContents: false
 ---
 
 ### hi
