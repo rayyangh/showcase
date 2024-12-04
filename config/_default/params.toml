@@ -49,7 +49,7 @@ sharingLinks = [ "linkedin" ]
 
 [list]
 showBreadcrumbs = false
-showSummary = true
+showSummary = false
 showTableOfContents = false
 showCards = false
 groupByYear = true

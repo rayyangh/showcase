@@ -3,7 +3,7 @@ title: "All About Hybrid Cars"
 categories: ["facts"]
 tags: ["Fun facts"]
 #externalUrl: ""
-#showSummary: true
+showSummary: false
 date: 2024-10-13
 draft: false
 ---
