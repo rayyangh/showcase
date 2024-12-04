@@ -4,7 +4,7 @@ showDate: false
 showReadingTime: false
 showBreadCrumbs: true
 showWordCount: false
-showAuthor: false
+showAuthor: true
 sharingLinks: false
 draft: false
 showTableOfContents: false
