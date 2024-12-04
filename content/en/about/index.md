@@ -10,6 +10,6 @@ draft: false
 showTableOfContents: false
 ---
 
-# Projects
+## Projects
 
 Hello
