@@ -3,7 +3,7 @@ content:
     label: Posts
     type: collection
     path: content/en/posts
-    view: 
+    view:
       fields: [title]
     fields:
       - { name: title, label: Title, type: string }
@@ -14,10 +14,9 @@ content:
   - name: About
     label: About
     type: file
-    path: content/about/index.md
-    view: 
+    path: content/en/about/index.md
+    view:
       fields: [title]
     fields:
       - { name: image, label: Image, type: image }
       - { name: body, label: Body, type: text }
-
