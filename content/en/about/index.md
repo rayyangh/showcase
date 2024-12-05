@@ -18,7 +18,6 @@ showTableOfContents: false
 Email me
 {{< /button >}}
 
-<br>
 {{< button href="linkedin.com" target="_self" >}}
 Send me a message on Linkedin
 {{< /button >}}
