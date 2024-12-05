@@ -1,13 +1,8 @@
 ---
-title: "All About Hybrid Cars"
-categories: ["facts"]
-tags: ["Fun facts"]
-#externalUrl: ""
-showSummary: false
-date: 2024-10-13
+title: All About Hybrid Cars
 draft: false
+date: 2024-10-13
 ---
-
 # Hybrid Cars
 
 - Hybrid
@@ -30,4 +25,4 @@ mild hybrid is basically the same as a normal car it's that it has the battery t
 
 ## Plug in Hybrid - PHEV
 
-In addition to the Petrol cap on one side of the car, on the other side there will be a charging port. Typically the range of these is much larger than a normal hybrid, able to go 100-300 km on battery power alone. These are usually in family SUVs or sedans, and rarely present in any other category of passenger vehicle. One of the best parts of a PHEV over a standard hybrid car is that a PHEV car can sustain highway speeds on electric power due to it's comparatively bigger battery than any standard HEV.
+In addition to the Petrol cap on one side of the car, on the other side there will be a charging port. Typically the range of these is much larger than a normal hybrid, able to go 100-300 km on battery power alone. These are usually in family SUVs or sedans, and rarely present in any other category of passenger vehicle. One of the best parts of a PHEV over a standard hybrid car is that a PHEV car can sustain highway speeds on electric power due to it's comparatively bigger battery than any standard HEV. PHEVs are also cheaper to run because they can be charged with a household electrical outlet instead of needing to draw power from expensive gasoline. 
