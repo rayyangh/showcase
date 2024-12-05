@@ -15,11 +15,6 @@
   pageRef = "posts"
   weight = 10
 
-[[main]]
-  identifier = "envelope"
-  pre = "envelope"
-  url = "mailto:rayyanbc@gmail.com"
-  weight = 50
 
 [[main]]
   name = "About"
