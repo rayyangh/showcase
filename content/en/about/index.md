@@ -12,7 +12,7 @@ showTableOfContents: false
 
 ## Contact Me
 
-- [Email](javascript:location.href = 'mailto:' + ['rayyanbc','gmail.com'].join('@'))
+- [Email](mailto:rayyanbc@gmail.com)
 - [Telegram](https://t.me/rayyantg)
 - [LinkedIn](https://www.linkedin.com/in/rayyan-manzary-3534b6251/)
 - [WhatsApp](https://wa.me/yourphonenumber)
