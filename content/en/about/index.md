@@ -37,11 +37,10 @@ showTableOfContents: false
 
 - Vercel
 - Cloudflare pages
-- Adobe:
-- animate
-- illustrator
-- premiere pro
-- photoshop
+- Adobe animate
+- Adobe illustrator
+- Adobe premiere pro
+- Adobe photoshop
 - davinci resolve
 - Trello
 - Jira
