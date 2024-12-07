@@ -43,6 +43,7 @@ showTableOfContents: false
 - Adobe photoshop
 - davinci resolve
 - Trello
+- Cloudcannon
 - Jira
 - Audacity
 - VScode
