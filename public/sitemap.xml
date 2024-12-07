@@ -2,50 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rayyangh.github.io/showcase/posts/hybrid/</loc>
+    <loc>https://showcasergb.pages.dev/posts/hybrid/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rayyangh.github.io/showcase/categories/</loc>
+    <loc>https://showcasergb.pages.dev/posts/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rayyangh.github.io/showcase/categories/facts/</loc>
+    <loc>https://showcasergb.pages.dev/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rayyangh.github.io/showcase/tags/fun-facts/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://showcasergb.pages.dev/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rayyangh.github.io/showcase/posts/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://showcasergb.pages.dev/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rayyangh.github.io/showcase/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://showcasergb.pages.dev/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rayyangh.github.io/showcase/tags/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://showcasergb.pages.dev/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rayyangh.github.io/showcase/about/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://rayyangh.github.io/showcase/authors/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://rayyangh.github.io/showcase/series/</loc>
+    <loc>https://showcasergb.pages.dev/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
