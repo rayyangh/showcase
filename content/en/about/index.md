@@ -7,7 +7,7 @@ showWordCount: false
 showAuthor: true
 sharingLinks: false
 draft: false
-showTableOfContents: false
+showTableOfContents: true
 ---
 
 ## Contact Me
