@@ -60,14 +60,14 @@ showTableOfContents: false
 - Markdown
 - Ruby
 - Golang
-
+<!--
 ## Projects
 
 - Saudi Airlines paper plane (illustrator)
 - Sugar Sammy poster (photoshop)
 - Qatar airways icons (illustrator)
 - STC Icon (illustrator)
-
+-->
 ## Experience
 
 - Misk JSP
