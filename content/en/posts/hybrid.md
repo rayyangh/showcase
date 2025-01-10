@@ -4,7 +4,7 @@ draft: false
 date: 2024-10-13
 ---
 
-# Hybrid Cars
+### 3 Main Types
 
 - Hybrid
 - Mild Hybrid
