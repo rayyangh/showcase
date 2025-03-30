@@ -85,6 +85,49 @@ Call to action
 
 - Debate club certificates
 
+## Education
+
+<table>
+    <thead>
+        <tr>
+            <th>School</th>
+            <th>Link</th>
+            <th>Degree</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4><img class="customEntitityLogo" src="hbs.svg"/></td>
+            <td rowspan=4><a href="https://online.hbs.edu/" target="_blank">Harvard Business School Online</a></td>
+        </tr>
+        <tr>
+            <td>Launching Tech Ventures</td>
+            <td>2023</td>
+        </tr>
+         <tr>
+            <td>Entrepreneurship Essentials</td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>Disruptive Strategy</td>
+            <td>2021</td>
+        </tr>
+        <tr>
+            <td rowspan=3><img class="customEntitityLogo" src="ist.png"/></td>
+            <td rowspan=3><a href="https://tecnico.ulisboa.pt/en/" target="_blank">Tecnico Lisboa</a></td>
+        </tr>
+        <tr>
+            <td>MSc in Computer Science - Distributed Systems</td>
+            <td>2012</td>
+        </tr>
+        <tr>
+            <td>BSc, Computer Science</td>
+            <td>2010</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Associations
 
 - ASD Debate club
