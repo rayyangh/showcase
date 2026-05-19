@@ -3,7 +3,7 @@ title: All About Hybrid Cars
 draft: false
 date: 2024-10-13
 featureImage: "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
-heroStyle: "basic"
+heroStyle: "big"
 ---
 
 ### 3 Main Types
