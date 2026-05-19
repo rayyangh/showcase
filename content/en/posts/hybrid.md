@@ -2,7 +2,7 @@
 title: All About Hybrid Cars
 draft: false
 date: 2024-10-13
-featuredImage: "https://hips.hearstapps.com/hmg-prod/images/2025-honda-civic-hybrid-hatchback-106-698b62819cc26.jpg"
+featuredImage: "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
 ---
 
 ### 3 Main Types
