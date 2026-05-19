@@ -25,7 +25,6 @@ cardViewScreenWidth = false
 layoutBackgroundBlur = false
 
 [article]
-showFeaturedImage = true
 showDate = true
 showDateUpdated = false
 showAuthor = false
